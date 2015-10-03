@@ -12,9 +12,9 @@
 		    <?php include 'navbar.php' ;?>
 	
 			<div class="row">
-			    <br><br>
+			    
 				<div  class="col-sm-8" style="border-right:solid #ccc;"  >
-				        <img src="mp.jpg" style="width:100%;height:90px;border-radius:5px;" >
+				        <img src="img\mp.jpg" style="width:100%;height:90px;border-radius:5px;" >
 				     <br><br>
 					 <p>The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
 					as an initiative to create a platform for the exchange of ideas and experience between the alumni and 

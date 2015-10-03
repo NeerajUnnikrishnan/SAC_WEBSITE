@@ -12,7 +12,7 @@
 		    <?php include 'navbar.php' ;?>
 			<div class="row">
 				<div  class="col-sm-12"  >
-				    <img src="mi.jpg" style="width:100%;" >
+				    <img src="img\mi.jpg" style="width:100%;" >
 					<a href="http://www.webteam.iitkgp.ernet.in/scg/" style="text-decoration:none;"><h2>My Imprint</h2></a>
 				    <p>The Student Alumni Mentorship programme was started in session 2010-11 by the Students’ Alumni Cell
 					as an initiative to create a platform for the exchange of ideas and experience between the alumni and 
@@ -24,7 +24,7 @@
 					Under this programme, we invite our alumni from across the world and from different fields to interact
 					with the students and help them build their network and gain new perspective on the possibilities open
 					to them after graduation.</p>
-					<br><br><hr><br>
+					<br><hr>
 					 <h2>What is Senior Class Gift 2015 ?</h2>
 						<p>IIT-KGP has a long and historic legacy of Alumni Giving Back which has existed in one or the other form. The Graduating Class Gift is yet another chapter to be added in KGP alumni legacy initiated under My Imprint Program.
 						It is a class-based effort directed towards raising unrestricted fund partially used currently and partially going towards Endowment. This particular part of the Endowment would again be utilized for students' services only. It is an opportunity for graduating students to take their first step in being soon-to-be alumni by making their Graduating Class Gift, the gift which impacts student life in the KGP campus. This challenge offers seniors the chance not only to make a gift, but also to leave behind their imprint.</p>
